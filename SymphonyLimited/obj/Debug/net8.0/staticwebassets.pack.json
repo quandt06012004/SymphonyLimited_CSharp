@@ -1,0 +1,905 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SymphonyLimited.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SymphonyLimited.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\admin\\css\\main.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\css\\my_style.css",
+      "PackagePath": "staticwebassets\\assets\\admin\\css\\my_style.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\AR.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\AR.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\AS.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\AS.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\BB.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\BB.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\BD.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\BD.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\BE.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\BE.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\BF.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\BF.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\BG.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\BG.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\BH.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\BH.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\CH.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\CH.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\DE.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\DE.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\ES.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\ES.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\FR.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\FR.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\IT.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\IT.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\US.svg",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\US.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\admin\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\_default-product.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\_default-product.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\_default-user.png",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\_default-user.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\add-image-icon.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\add-image-icon.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\5.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\6.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\7.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\8.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\avatars\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\avatars\\9.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\abstract1.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\abstract1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\abstract2.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\abstract2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\abstract3.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\abstract3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\abstract4.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\abstract4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\abstract5.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\abstract5.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\city1.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\city1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\city2.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\city2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\city3.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\city3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\city4.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\city4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\dropdown-header\\city5.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\dropdown-header\\city5.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\icons.gif",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\icons.gif"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\logo-inverse.png",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\logo-inverse.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\abstract1.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\abstract1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\abstract2.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\abstract2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\abstract3.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\abstract3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\abstract4.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\abstract4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\abstract5.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\abstract5.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\city1.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\city1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\city2.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\city2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\city3.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\city3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\city4.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\city4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\images\\sidebar\\city5.jpg",
+      "PackagePath": "staticwebassets\\assets\\admin\\images\\sidebar\\city5.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\main.css",
+      "PackagePath": "staticwebassets\\assets\\admin\\main.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\my_style.css",
+      "PackagePath": "staticwebassets\\assets\\admin\\my_style.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\scripts\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\admin\\scripts\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\scripts\\main.js",
+      "PackagePath": "staticwebassets\\assets\\admin\\scripts\\main.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\admin\\scripts\\my_script.js",
+      "PackagePath": "staticwebassets\\assets\\admin\\scripts\\my_script.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\elegant-fonts.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\elegant-fonts.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\swiper.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\swiper.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\swiper.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\users\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\users\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\a.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\a.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\ads.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\ads.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\app-store.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\app-store.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\b-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\b-1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\b-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\b-2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\b-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\b-3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\b-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\b-4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\b-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\b-5.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\b-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\b-6.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\b.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\b.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\blog-post-img.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\blog-post-img.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\c-1.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\c-1.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\c-2.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\c-2.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\c-3.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\c-3.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\c.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\c.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\course-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\course-author.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\courses-header.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\courses-header.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\d.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\e.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\e.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\event-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\event-1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\event-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\event-2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\event-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\event-3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\foot-logo.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\foot-logo.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\g.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\g.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\h.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\h.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\i.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\i.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\instructor.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\instructor.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\j.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\j.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\k.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\k.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\l.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\l.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\logo-1.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\logo-1.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\logo-2.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\logo-3.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\logo-3.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\logo-4.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\logo-4.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\logo-5.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\logo-5.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\m.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\m.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\n.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\n.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\o.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\o.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\play-store.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\play-store.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\quote-icon.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\quote-icon.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\quote.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\single-course-featured-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\single-course-featured-img.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\single-courses-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\single-courses-bg.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\single-post.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\single-post.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\t-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\t-1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\t-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\t-2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\t-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\t-3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\t-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\t-4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\user-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\user-1.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\user-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\user-2.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\user-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\user-3.jpg"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\video-icon.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\video-icon.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\images\\video-screenshot.png",
+      "PackagePath": "staticwebassets\\assets\\users\\images\\video-screenshot.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\users\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\js\\jquery.collapsible.min.js",
+      "PackagePath": "staticwebassets\\assets\\users\\js\\jquery.collapsible.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\users\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\js\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\users\\js\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\js\\swiper.js",
+      "PackagePath": "staticwebassets\\assets\\users\\js\\swiper.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\assets\\users\\js\\swiper.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\assets\\users\\style.css",
+      "PackagePath": "staticwebassets\\assets\\users\\style.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\images\\NotFound.png",
+      "PackagePath": "staticwebassets\\images\\NotFound.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\images\\admin\\quanlysinhvien.png",
+      "PackagePath": "staticwebassets\\images\\admin\\quanlysinhvien.png"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\all tài liệu Sem 3\\SymphonyLimited\\SymphonyLimited\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SymphonyLimited.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SymphonyLimited.props",
+      "PackagePath": "build\\SymphonyLimited.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SymphonyLimited.props",
+      "PackagePath": "buildMultiTargeting\\SymphonyLimited.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SymphonyLimited.props",
+      "PackagePath": "buildTransitive\\SymphonyLimited.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
