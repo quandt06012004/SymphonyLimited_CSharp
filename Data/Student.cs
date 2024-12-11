@@ -33,6 +33,8 @@ namespace Data_DAL
         [Column("registration_date")]
         public DateTime? RegistrationDate { get; set; }
 
+        public string? Avatar { get; set; } = null;
+
         public virtual ICollection<Result> Results { get; set; } = new List<Result>();
         public virtual ICollection<StudentCourseRegistration> Registrations { get; set; } = new List<StudentCourseRegistration>();
         public virtual ICollection<LabSession> LabSessions { get; set; } = new List<LabSession>();

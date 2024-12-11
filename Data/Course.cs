@@ -19,6 +19,9 @@ namespace Data_DAL
 
         public string? Description { get; set; }
 
+        //image
+        public string? Image { get; set; } = null;
+
         public virtual ICollection<Class> Classes { get; set; } = new List<Class>();
         public virtual ICollection<StudentCourseRegistration> Registrations { get; set; } = new List<StudentCourseRegistration>();
     }
