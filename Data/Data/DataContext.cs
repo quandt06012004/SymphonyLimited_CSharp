@@ -29,23 +29,41 @@ namespace Data_DAL.Data
             modelBuilder.Entity<LabSession>()
                 .HasCheckConstraint("chk_SessionType", "[SessionType] IN ('DuringCourse', 'AfterCourse')");
 
+            // Define relationships
+            modelBuilder.Entity<StudentCourseRegistration>()
+                .HasOne(scr => scr.Student)
+                .WithMany(s => s.Registrations)
+                .HasForeignKey(scr => scr.StudentID)
+                .OnDelete(DeleteBehavior.Restrict); // Hoặc DeleteBehavior.NoAction
+
+            modelBuilder.Entity<StudentCourseRegistration>()
+                .HasOne(scr => scr.Course)
+                .WithMany(c => c.Registrations)
+                .HasForeignKey(scr => scr.CourseID)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<StudentCourseRegistration>()
+                .HasOne(scr => scr.Class)
+                .WithMany(c => c.Registrations)
+                .HasForeignKey(scr => scr.ClassID)
+                .OnDelete(DeleteBehavior.Restrict);
 
             // Đảm bảo rằng cascade delete không được phép giữa các bảng
-           /* modelBuilder.Entity<StudentCourseRegistration>()
-                .HasOne(s => s.Student)
-                .WithMany()
-                .OnDelete(DeleteBehavior.NoAction);*/  // Không thực hiện cascade delete cho Student
+            /* modelBuilder.Entity<StudentCourseRegistration>()
+                 .HasOne(s => s.Student)
+                 .WithMany()
+                 .OnDelete(DeleteBehavior.NoAction);*/  // Không thực hiện cascade delete cho Student
 
-          /*  modelBuilder.Entity<StudentCourseRegistration>()
-                .HasOne(s => s.Course)
-                .WithMany()
-                .OnDelete(DeleteBehavior.NoAction);*/  // Không thực hiện cascade delete cho Course
+            /*  modelBuilder.Entity<StudentCourseRegistration>()
+                  .HasOne(s => s.Course)
+                  .WithMany()
+                  .OnDelete(DeleteBehavior.NoAction);*/  // Không thực hiện cascade delete cho Course
 
-          /*  modelBuilder.Entity<StudentCourseRegistration>()
-                .HasOne(s => s.Class)
-                .WithMany()
-                .OnDelete(DeleteBehavior.NoAction);  // Không thực hiện cascade delete cho Class*/
+            /*  modelBuilder.Entity<StudentCourseRegistration>()
+                  .HasOne(s => s.Class)
+                  .WithMany()
+                  .OnDelete(DeleteBehavior.NoAction);  // Không thực hiện cascade delete cho Class*/
         }
-    
-}
+
+    }
 }

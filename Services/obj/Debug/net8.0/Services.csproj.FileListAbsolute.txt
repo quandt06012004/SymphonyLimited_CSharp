@@ -8,6 +8,7 @@ D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\Services.Gene
 D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
 D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
 D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\Services.sourcelink.json
 D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\Services.csproj.Up2Date
 D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\Services.dll
 D:\all tài liệu Sem 3\SymphonyLimited\Services\obj\Debug\net8.0\refint\Services.dll

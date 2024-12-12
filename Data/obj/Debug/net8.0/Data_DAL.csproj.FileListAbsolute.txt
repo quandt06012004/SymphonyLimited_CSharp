@@ -7,6 +7,7 @@ D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\Data_DAL.Generate
 D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\Data_DAL.AssemblyInfoInputs.cache
 D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\Data_DAL.AssemblyInfo.cs
 D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\Data_DAL.csproj.CoreCompileInputs.cache
+D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\Data_DAL.sourcelink.json
 D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\Data_DAL.dll
 D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\refint\Data_DAL.dll
 D:\all tài liệu Sem 3\SymphonyLimited\Data\obj\Debug\net8.0\Data_DAL.pdb
