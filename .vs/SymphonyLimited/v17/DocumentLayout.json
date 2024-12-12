@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBE6E4FC-3B04-47EA-82F0-386FF0007373}|Services\\Services.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FBE6E4FC-3B04-47EA-82F0-386FF0007373}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\symphonylimited\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|solutionrelative:symphonylimited\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA6E61F-C4C3-438F-88F4-38470E7404A4}|Data\\Data_DAL.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\data\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA6E61F-C4C3-438F-88F4-38470E7404A4}|Data\\Data_DAL.csproj|solutionrelative:data\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\symphonylimited\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|solutionrelative:symphonylimited\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\symphonylimited\\views\\shared\\_layoutbranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|solutionrelative:symphonylimited\\views\\shared\\_layoutbranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE6E4FC-3B04-47EA-82F0-386FF0007373}|Services\\Services.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\services\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE6E4FC-3B04-47EA-82F0-386FF0007373}|Services\\Services.csproj|solutionrelative:services\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\symphonylimited\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|solutionrelative:symphonylimited\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EA6E61F-C4C3-438F-88F4-38470E7404A4}|Data\\Data_DAL.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\data\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EA6E61F-C4C3-438F-88F4-38470E7404A4}|Data\\Data_DAL.csproj|solutionrelative:data\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\symphonylimited\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|solutionrelative:symphonylimited\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\symphonylimited\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|solutionrelative:symphonylimited\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\symphonylimited\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F13C267-3278-48B2-B7AF-654CD9018316}|SymphonyLimited\\SymphonyLimited.csproj|solutionrelative:symphonylimited\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBE6E4FC-3B04-47EA-82F0-386FF0007373}|Services\\Services.csproj|d:\\all t\u00E0i li\u1EC7u sem 3\\symphonylimited\\services\\irepositorymain\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE6E4FC-3B04-47EA-82F0-386FF0007373}|Services\\Services.csproj|solutionrelative:services\\irepositorymain\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,81 +66,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Services",
-              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Services\\Services.csproj",
-              "RelativeDocumentMoniker": "Services\\Services.csproj",
-              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Services\\Services.csproj",
-              "RelativeToolTip": "Services\\Services.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T02:37:14.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "SymphonyLimited\\Controllers\\ContactController.cs",
-              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "SymphonyLimited\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "DocumentIndex": 1,
+              "Title": "ContactUs.cs",
+              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Data\\ContactUs.cs",
+              "RelativeDocumentMoniker": "Data\\ContactUs.cs",
+              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Data\\ContactUs.cs",
+              "RelativeToolTip": "Data\\ContactUs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:33:18.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:58:09.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "SymphonyLimited\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "SymphonyLimited\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:28:09.702Z",
-              "EditorCaption": ""
+              "Title": "_LayoutBranch.cshtml",
+              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Views\\Shared\\_LayoutBranch.cshtml",
+              "RelativeDocumentMoniker": "SymphonyLimited\\Views\\Shared\\_LayoutBranch.cshtml",
+              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Views\\Shared\\_LayoutBranch.cshtml",
+              "RelativeToolTip": "SymphonyLimited\\Views\\Shared\\_LayoutBranch.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:53:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "SymphonyLimited\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "SymphonyLimited\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:53:22.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SymphonyLimited\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SymphonyLimited\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:27:14.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Program.cs",
               "RelativeDocumentMoniker": "SymphonyLimited\\Program.cs",
               "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Program.cs",
               "RelativeToolTip": "SymphonyLimited\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:23:30.337Z",
+              "WhenOpened": "2024-12-11T11:47:51.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "SymphonyLimited\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\SymphonyLimited\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "SymphonyLimited\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:46:39.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Data\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Data\\Data\\DataContext.cs",
-              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Data\\Data\\DataContext.cs",
-              "RelativeToolTip": "Data\\Data\\DataContext.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "DocumentIndex": 4,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Services\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Services\\ContactRepository.cs",
+              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Services\\ContactRepository.cs",
+              "RelativeToolTip": "Services\\ContactRepository.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAIIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:17:31.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:21:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Services\\IRepositoryMain\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IRepositoryMain\\IContactRepository.cs",
+              "ToolTip": "D:\\all t\u00E0i li\u1EC7u Sem 3\\SymphonyLimited\\Services\\IRepositoryMain\\IContactRepository.cs",
+              "RelativeToolTip": "Services\\IRepositoryMain\\IContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:05:56.246Z"
             }
           ]
         },
